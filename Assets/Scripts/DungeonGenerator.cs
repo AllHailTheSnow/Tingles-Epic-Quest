@@ -13,6 +13,9 @@ public class DungeonGenerator : MonoBehaviour
     [Header("Debug Visualtisation")]
     [SerializeField] private Vector2 roomSpacing = new Vector2(20f, 12f);
 
+    [Header("Room Spawner")]
+    [SerializeField] private RoomSpawner roomSpawner;
+
     private DungeonLayout layout;
     public DungeonLayout Layout => layout;
     public int CurrentSeed { get; private set; }
@@ -61,7 +64,13 @@ public class DungeonGenerator : MonoBehaviour
             }
         }
 
+        // Assign room types using the RoomClassifier
+        RoomClassifier.AssignRoomTypes(layout, CurrentSeed);    
+
         Debug.Log($"Dungeon generated with {layout.RoomCount} rooms using seed {CurrentSeed}");
+
+        // Spawn the rooms using the RoomSpawner
+        roomSpawner.Spawn(layout, roomSpacing);
 
 #if UNITY_EDITOR
         UnityEditor.SceneView.RepaintAll();

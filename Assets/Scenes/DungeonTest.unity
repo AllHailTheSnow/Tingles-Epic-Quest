@@ -129,6 +129,7 @@ GameObject:
   m_Component:
   - component: {fileID: 661846842}
   - component: {fileID: 661846841}
+  - component: {fileID: 661846843}
   m_Layer: 0
   m_Name: DungeonGenerator
   m_TagString: Untagged
@@ -152,6 +153,7 @@ MonoBehaviour:
   seed: 12345
   randomizeSeed: 1
   roomSpacing: {x: 20, y: 12}
+  roomSpawner: {fileID: 661846843}
 --- !u!4 &661846842
 Transform:
   m_ObjectHideFlags: 0
@@ -164,9 +166,27 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 1252641326}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &661846843
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 661846840}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52877e3c57920cf46801a3442e2212c9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RoomSpawner
+  normalRoomPrefab: {fileID: 6834424143066059699, guid: 9ed82586c4489e44da522a300437c6fc, type: 3}
+  startingRoomPrefab: {fileID: 4804172098526891371, guid: 8e38f91636527834db26106542952885, type: 3}
+  treasureRoomPrefab: {fileID: 1225450276762652485, guid: 49b88a663e25d454a85c1a1a2f743d2e, type: 3}
+  bossRoomPrefab: {fileID: 1794541027537000686, guid: fd5bb30930ab1ba4aadd40d120b50c52, type: 3}
+  roomParent: {fileID: 1252641326}
 --- !u!1 &666319192
 GameObject:
   m_ObjectHideFlags: 0
@@ -304,67 +324,40 @@ MonoBehaviour:
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
   m_Version: 2
---- !u!1001 &8575580014005084127
-PrefabInstance:
+--- !u!1 &1252641325
+GameObject:
   m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1252641326}
+  m_Layer: 0
+  m_Name: GeneratedRooms
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1252641326
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1252641325}
   serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5748866114103801284, guid: ed3de0cd17a42d14680016e1456c9266, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5748866114103801284, guid: ed3de0cd17a42d14680016e1456c9266, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5748866114103801284, guid: ed3de0cd17a42d14680016e1456c9266, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5748866114103801284, guid: ed3de0cd17a42d14680016e1456c9266, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5748866114103801284, guid: ed3de0cd17a42d14680016e1456c9266, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5748866114103801284, guid: ed3de0cd17a42d14680016e1456c9266, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5748866114103801284, guid: ed3de0cd17a42d14680016e1456c9266, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5748866114103801284, guid: ed3de0cd17a42d14680016e1456c9266, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5748866114103801284, guid: ed3de0cd17a42d14680016e1456c9266, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5748866114103801284, guid: ed3de0cd17a42d14680016e1456c9266, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7409593903106327654, guid: ed3de0cd17a42d14680016e1456c9266, type: 3}
-      propertyPath: m_Name
-      value: Room
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: ed3de0cd17a42d14680016e1456c9266, type: 3}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -15.54039, y: -4.77756, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 661846842}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 666319195}
   - {fileID: 661846842}
-  - {fileID: 8575580014005084127}
