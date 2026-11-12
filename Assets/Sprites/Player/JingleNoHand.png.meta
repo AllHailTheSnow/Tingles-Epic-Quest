@@ -1,0 +1,1885 @@
+fileFormatVersion: 2
+guid: 3975c11903f4b1b4f9c85992ff69f910
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8008130729450960944
+    second: JingleNoHand_0
+  - first:
+      213: -4253731821835255781
+    second: JingleNoHand_1
+  - first:
+      213: -4446554904257219591
+    second: JingleNoHand_2
+  - first:
+      213: -4049975900612628212
+    second: JingleNoHand_3
+  - first:
+      213: -7724140482422603791
+    second: JingleNoHand_4
+  - first:
+      213: 4636894535321569285
+    second: JingleNoHand_5
+  - first:
+      213: 2473013022625911685
+    second: JingleNoHand_6
+  - first:
+      213: 4571292600361769659
+    second: JingleNoHand_7
+  - first:
+      213: 6967009758230900127
+    second: JingleNoHand_8
+  - first:
+      213: -2805599237243276443
+    second: JingleNoHand_9
+  - first:
+      213: -9007854472030255459
+    second: JingleNoHand_10
+  - first:
+      213: 7935826333417380282
+    second: JingleNoHand_11
+  - first:
+      213: 5244392801288404910
+    second: JingleNoHand_12
+  - first:
+      213: 8174672754343815974
+    second: JingleNoHand_13
+  - first:
+      213: -8538641779903708682
+    second: JingleNoHand_14
+  - first:
+      213: -3370828934170415627
+    second: JingleNoHand_15
+  - first:
+      213: 4161126017066884840
+    second: JingleNoHand_16
+  - first:
+      213: 2736470913515232598
+    second: JingleNoHand_17
+  - first:
+      213: 7044811409257602524
+    second: JingleNoHand_18
+  - first:
+      213: 3360779581817196473
+    second: JingleNoHand_19
+  - first:
+      213: -3076407294422894912
+    second: JingleNoHand_20
+  - first:
+      213: 1085728903996431435
+    second: JingleNoHand_21
+  - first:
+      213: -7581795387399631910
+    second: JingleNoHand_22
+  - first:
+      213: -5912969456323375257
+    second: JingleNoHand_23
+  - first:
+      213: -531903208157634096
+    second: JingleNoHand_24
+  - first:
+      213: -5046206688358547425
+    second: JingleNoHand_25
+  - first:
+      213: 2033493522526255241
+    second: JingleNoHand_26
+  - first:
+      213: -2034241820813188127
+    second: JingleNoHand_27
+  - first:
+      213: 5740667330603508432
+    second: JingleNoHand_28
+  - first:
+      213: -6228029462973868618
+    second: JingleNoHand_29
+  - first:
+      213: -6120227625143401480
+    second: JingleNoHand_30
+  - first:
+      213: 5943749053448529392
+    second: JingleNoHand_31
+  - first:
+      213: 1568815343669900289
+    second: JingleNoHand_32
+  - first:
+      213: -3474261005300847393
+    second: JingleNoHand_33
+  - first:
+      213: -2259095950823751355
+    second: JingleNoHand_34
+  - first:
+      213: -908686691152237767
+    second: JingleNoHand_35
+  - first:
+      213: -263610339298750024
+    second: JingleNoHand_36
+  - first:
+      213: -7090267695068067604
+    second: JingleNoHand_37
+  - first:
+      213: 1146067064420668953
+    second: JingleNoHand_38
+  - first:
+      213: -5607309746430257816
+    second: JingleNoHand_39
+  - first:
+      213: -270560939929079836
+    second: JingleNoHand_40
+  - first:
+      213: -8597316926212485402
+    second: JingleNoHand_41
+  - first:
+      213: 4003654850336957428
+    second: JingleNoHand_42
+  - first:
+      213: -3992452636134831494
+    second: JingleNoHand_43
+  - first:
+      213: 6970535146822271931
+    second: JingleNoHand_44
+  - first:
+      213: -851897758316854624
+    second: JingleNoHand_45
+  - first:
+      213: -9061556052221249049
+    second: JingleNoHand_46
+  - first:
+      213: 2097208622622691739
+    second: JingleNoHand_47
+  - first:
+      213: 6449126926019687190
+    second: JingleNoHand_48
+  - first:
+      213: -3479950418667392622
+    second: JingleNoHand_49
+  - first:
+      213: -2643695603902783239
+    second: JingleNoHand_50
+  - first:
+      213: -2716402478849178326
+    second: JingleNoHand_51
+  - first:
+      213: 2409114514874093362
+    second: JingleNoHand_52
+  - first:
+      213: 2952351786624039681
+    second: JingleNoHand_53
+  - first:
+      213: 2958731441247250756
+    second: JingleNoHand_54
+  - first:
+      213: 5980281506302952645
+    second: JingleNoHand_55
+  - first:
+      213: 4482641274355729943
+    second: JingleNoHand_56
+  - first:
+      213: 4268539276816113330
+    second: JingleNoHand_57
+  - first:
+      213: -1242869689137246949
+    second: JingleNoHand_58
+  - first:
+      213: -1483661324269279264
+    second: JingleNoHand_59
+  - first:
+      213: -1546387457056887265
+    second: JingleNoHand_60
+  - first:
+      213: -307962983514391592
+    second: JingleNoHand_61
+  - first:
+      213: -8532539578548790802
+    second: JingleNoHand_62
+  - first:
+      213: -8826453714529725831
+    second: JingleNoHand_63
+  - first:
+      213: 4736938246146131965
+    second: JingleNoHand_64
+  - first:
+      213: 7153213334467059623
+    second: JingleNoHand_65
+  - first:
+      213: 4116068529069306662
+    second: JingleNoHand_66
+  - first:
+      213: 6767970906634383967
+    second: JingleNoHand_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JingleNoHand_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 351
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d78f2cc7876dd090800000000000000
+      internalID: -8008130729450960944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 351
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b100cbdf175b7f4c0800000000000000
+      internalID: -4253731821835255781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 351
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f33a799fd9aa42c0800000000000000
+      internalID: -4446554904257219591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 351
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01771740689bc7c0800000000000000
+      internalID: -4049975900612628212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 351
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff7cfdc7275ec490800000000000000
+      internalID: -7724140482422603791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 351
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508cac6330f895040800000000000000
+      internalID: 4636894535321569285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 319
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5835882dd38e15220800000000000000
+      internalID: 2473013022625911685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_7
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 321
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba5fe8766e707f30800000000000000
+      internalID: 4571292600361769659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_8
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 320
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d680a567acfa060800000000000000
+      internalID: 6967009758230900127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 319
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563f102cb528019d0800000000000000
+      internalID: -2805599237243276443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_10
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 321
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d960936551cadf280800000000000000
+      internalID: -9007854472030255459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 320
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab998822108b12e60800000000000000
+      internalID: 7935826333417380282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 287
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf396f7773d7c840800000000000000
+      internalID: 5244392801288404910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 287
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b2abd0f85427170800000000000000
+      internalID: 8174672754343815974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 288
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1c7847a86a08980800000000000000
+      internalID: -8538641779903708682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 287
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fde92c91f86831d0800000000000000
+      internalID: -3370828934170415627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_16
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 287
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee58e0e01a4fb930800000000000000
+      internalID: 4161126017066884840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_17
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 287
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d93422cc5e9f520800000000000000
+      internalID: 2736470913515232598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 255
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd1b66d6a234c160800000000000000
+      internalID: 7044811409257602524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_19
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 255
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf89963933e3ae20800000000000000
+      internalID: 3360779581817196473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 255
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6b08f7dd76e45d0800000000000000
+      internalID: -3076407294422894912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_21
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 255
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cd41d8fa8411f00800000000000000
+      internalID: 1085728903996431435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_22
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 255
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb8956e34d08c690800000000000000
+      internalID: -7581795387399631910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 255
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f4c149b99e0fda0800000000000000
+      internalID: -5912969456323375257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 223
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1afdea9dc4e98f0800000000000000
+      internalID: -531903208157634096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 223
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10403db0c548f9b0800000000000000
+      internalID: -5046206688358547425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_26
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 223
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9883c37b59b683c10800000000000000
+      internalID: 2033493522526255241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 223
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3af2387dbe4c3e0800000000000000
+      internalID: -2034241820813188127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_28
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 223
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2ef469582faaf40800000000000000
+      internalID: 5740667330603508432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 223
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b596c073389199a0800000000000000
+      internalID: -6228029462973868618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 191
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f38bcab665901ba0800000000000000
+      internalID: -6120227625143401480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_31
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 191
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f52dd4d5407c7250800000000000000
+      internalID: 5943749053448529392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_32
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 191
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10470ad3e3d85c510800000000000000
+      internalID: 1568815343669900289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_33
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 191
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc2d0ae502f8cfc0800000000000000
+      internalID: -3474261005300847393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_34
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 191
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54180a1b33416a0e0800000000000000
+      internalID: -2259095950823751355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_35
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 191
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93beeb1d442b363f0800000000000000
+      internalID: -908686691152237767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 161
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b15af60bc7775cf0800000000000000
+      internalID: -263610339298750024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_37
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 161
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce84a01e81f4a9d90800000000000000
+      internalID: -7090267695068067604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_38
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 161
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91691974ce5a7ef00800000000000000
+      internalID: 1146067064420668953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_39
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 161
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86550729e75de22b0800000000000000
+      internalID: -5607309746430257816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_40
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 161
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef6e653246ce3cf0800000000000000
+      internalID: -270560939929079836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_41
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 161
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eec6af5ec130b880800000000000000
+      internalID: -8597316926212485402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_42
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 129
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3aa95cfd6df8730800000000000000
+      internalID: 4003654850336957428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_43
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 129
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a8c98fa75f798c0800000000000000
+      internalID: -3992452636134831494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_44
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 129
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb387b8d8c05cb060800000000000000
+      internalID: 6970535146822271931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_45
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 129
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2829a90837d24f0800000000000000
+      internalID: -851897758316854624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_46
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 129
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9bf0bd7c2ee3280800000000000000
+      internalID: -9061556052221249049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_47
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 129
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91df4b7128ca1d10800000000000000
+      internalID: 2097208622622691739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_48
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 95
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6137fc035c6ef7950800000000000000
+      internalID: 6449126926019687190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_49
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 95
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291bb53288bb4bfc0800000000000000
+      internalID: -3479950418667392622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_50
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 95
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0ec1bead4bf4bd0800000000000000
+      internalID: -2643695603902783239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_51
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 95
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25443d66566d4ad0800000000000000
+      internalID: -2716402478849178326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_52
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 95
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fce4223e4ee6120800000000000000
+      internalID: 2409114514874093362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_53
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 95
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b37b5ce4cd8f820800000000000000
+      internalID: 2952351786624039681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_54
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 63
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449625dd1968f0920800000000000000
+      internalID: 2958731441247250756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_55
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 63
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c48608585a3ef250800000000000000
+      internalID: 5980281506302952645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_56
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 63
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7164a7d2d7a853e30800000000000000
+      internalID: 4482641274355729943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_57
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 63
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be5d684bd5ec3b30800000000000000
+      internalID: 4268539276816113330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_58
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 63
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1dcfdc4a9070cee0800000000000000
+      internalID: -1242869689137246949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_59
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 63
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7a1f7e2e9f86be0800000000000000
+      internalID: -1483661324269279264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 31
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e21090dc02a8ae0800000000000000
+      internalID: -1546387457056887265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_61
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 31
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbb7a35c45e9bbf0800000000000000
+      internalID: -307962983514391592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_62
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 31
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee953ace574569980800000000000000
+      internalID: -8532539578548790802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_63
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 31
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97257077c13228580800000000000000
+      internalID: -8826453714529725831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_64
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7808ccc3cfcb140800000000000000
+      internalID: 4736938246146131965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_65
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af1f7bd0a1554360800000000000000
+      internalID: 7153213334467059623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_66
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6233752f4863f1930800000000000000
+      internalID: 4116068529069306662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JingleNoHand_67
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52fe1c6ea9aced50800000000000000
+      internalID: 6767970906634383967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      JingleNoHand_0: -8008130729450960944
+      JingleNoHand_1: -4253731821835255781
+      JingleNoHand_10: -9007854472030255459
+      JingleNoHand_11: 7935826333417380282
+      JingleNoHand_12: 5244392801288404910
+      JingleNoHand_13: 8174672754343815974
+      JingleNoHand_14: -8538641779903708682
+      JingleNoHand_15: -3370828934170415627
+      JingleNoHand_16: 4161126017066884840
+      JingleNoHand_17: 2736470913515232598
+      JingleNoHand_18: 7044811409257602524
+      JingleNoHand_19: 3360779581817196473
+      JingleNoHand_2: -4446554904257219591
+      JingleNoHand_20: -3076407294422894912
+      JingleNoHand_21: 1085728903996431435
+      JingleNoHand_22: -7581795387399631910
+      JingleNoHand_23: -5912969456323375257
+      JingleNoHand_24: -531903208157634096
+      JingleNoHand_25: -5046206688358547425
+      JingleNoHand_26: 2033493522526255241
+      JingleNoHand_27: -2034241820813188127
+      JingleNoHand_28: 5740667330603508432
+      JingleNoHand_29: -6228029462973868618
+      JingleNoHand_3: -4049975900612628212
+      JingleNoHand_30: -6120227625143401480
+      JingleNoHand_31: 5943749053448529392
+      JingleNoHand_32: 1568815343669900289
+      JingleNoHand_33: -3474261005300847393
+      JingleNoHand_34: -2259095950823751355
+      JingleNoHand_35: -908686691152237767
+      JingleNoHand_36: -263610339298750024
+      JingleNoHand_37: -7090267695068067604
+      JingleNoHand_38: 1146067064420668953
+      JingleNoHand_39: -5607309746430257816
+      JingleNoHand_4: -7724140482422603791
+      JingleNoHand_40: -270560939929079836
+      JingleNoHand_41: -8597316926212485402
+      JingleNoHand_42: 4003654850336957428
+      JingleNoHand_43: -3992452636134831494
+      JingleNoHand_44: 6970535146822271931
+      JingleNoHand_45: -851897758316854624
+      JingleNoHand_46: -9061556052221249049
+      JingleNoHand_47: 2097208622622691739
+      JingleNoHand_48: 6449126926019687190
+      JingleNoHand_49: -3479950418667392622
+      JingleNoHand_5: 4636894535321569285
+      JingleNoHand_50: -2643695603902783239
+      JingleNoHand_51: -2716402478849178326
+      JingleNoHand_52: 2409114514874093362
+      JingleNoHand_53: 2952351786624039681
+      JingleNoHand_54: 2958731441247250756
+      JingleNoHand_55: 5980281506302952645
+      JingleNoHand_56: 4482641274355729943
+      JingleNoHand_57: 4268539276816113330
+      JingleNoHand_58: -1242869689137246949
+      JingleNoHand_59: -1483661324269279264
+      JingleNoHand_6: 2473013022625911685
+      JingleNoHand_60: -1546387457056887265
+      JingleNoHand_61: -307962983514391592
+      JingleNoHand_62: -8532539578548790802
+      JingleNoHand_63: -8826453714529725831
+      JingleNoHand_64: 4736938246146131965
+      JingleNoHand_65: 7153213334467059623
+      JingleNoHand_66: 4116068529069306662
+      JingleNoHand_67: 6767970906634383967
+      JingleNoHand_7: 4571292600361769659
+      JingleNoHand_8: 6967009758230900127
+      JingleNoHand_9: -2805599237243276443
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
